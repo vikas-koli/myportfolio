@@ -7,7 +7,6 @@ import {
   TrendingDown,
   Percent,
   ArrowUpRight,
-  ArrowDownRight,
   AlertCircle,
   CircleDollarSign,
   BarChart3,
