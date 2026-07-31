@@ -4,7 +4,7 @@ import Dashboard from "./pages/dashboard";
 import AdminLayout from "./layout/admin-layout";
 import LeadsPage from "./pages/leads-page";
 import MessageComposer from "./pages/message-page";
-import AdminLogin from "./pages/login-page";
+
 
 function App() {
 
