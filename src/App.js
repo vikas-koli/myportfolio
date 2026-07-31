@@ -12,8 +12,7 @@ return (
 
 <BrowserRouter>
 <Routes>
-<Route path="/" element={ <Dashboard/> }/> 
-<Route path="/dashboard" element={<AdminLayout> <Dashboard/> </AdminLayout> }/> 
+<Route path="/" element={<AdminLayout> <Dashboard/> </AdminLayout> }/> 
 <Route path="/leads" element={ <AdminLayout> <LeadsPage/> </AdminLayout> } />
 <Route path="/message" element={ <AdminLayout> <MessageComposer/> </AdminLayout> } />
 </Routes>
